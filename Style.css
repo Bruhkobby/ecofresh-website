@@ -1,6 +1,4 @@
 /* EcoFresh Website Styles */
-
-/* Global Styles */
 * {
   margin: 0;
   padding: 0;
@@ -413,4 +411,5 @@ footer {
   .grid {
     grid-template-columns: 1fr;
   }
+
 }
